@@ -15,7 +15,7 @@ Definice frontend komponenet (S,M,L), studijní program, předmět, lekce, učeb
 
 15.12.2021 Vydání verze Alfa
 
-14.1.2022 Převedení projektu do dockeru
+14.1.2022 Optimalizace a dokončení kódu a následné převedení projektu do dockeru
 
 15.1.2022 Vydání verze Beta
 
