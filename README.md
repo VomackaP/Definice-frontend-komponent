@@ -25,3 +25,7 @@ Definice frontend komponenet (S,M,L), studijní program, předmět, lekce, učeb
 
 18.3.2022 konec zkouškového období.
 
+Problémy: 
+- odkazovatelnost jednotlivých komponent
+- interakce s API
+
